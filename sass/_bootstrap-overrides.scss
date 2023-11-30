@@ -26,12 +26,10 @@ $theme-colors: (
 );
 
 $custom-grid-breakpoints: (
-  3xl: 1600px,
-  4xl: 1800px,
+  xxxl: 1600px,
 );
 $custom-container-max-widths: (
-  3xl: 1520px,
-  4xl: 1720px,
+  xxxl: 1520px,
 );
 $grid-breakpoints: map-merge($grid-breakpoints, $custom-grid-breakpoints);
 $container-max-widths: map-merge($container-max-widths, $custom-container-max-widths);
