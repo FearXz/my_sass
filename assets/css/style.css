@@ -9183,6 +9183,22 @@ textarea.form-control-lg {
   font-size: 1rem !important;
 }
 
+.fs-7 {
+  font-size: 0.8rem !important;
+}
+
+.fs-8 {
+  font-size: 0.7rem !important;
+}
+
+.fs-9 {
+  font-size: 0.6rem !important;
+}
+
+.fs-10 {
+  font-size: 0.5rem !important;
+}
+
 .fst-italic {
   font-style: italic !important;
 }
