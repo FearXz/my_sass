@@ -7,6 +7,7 @@
 @import "./bootstrap/scss/functions";
 //var qua
 $darkgray: #141414;
+$lightgray: #e2e2e2;
 @import "./bootstrap/scss/variables";
 //map qua
 $theme-colors: (
@@ -24,6 +25,7 @@ $theme-colors: (
   "orange": $orange,
   "teal": $teal,
   "darkgray": $darkgray,
+  "lightgray": $lightgray,
 );
 
 $custom-grid-breakpoints: (
