@@ -94,3 +94,6 @@ $font-sizes: map-merge($font-sizes, $custon-font-sizes);
 // Utilities
 @import "./bootstrap/scss/utilities/api";
 // scss-docs-end import-stack
+
+// le mie robe
+@import "./partials/customsettings";
