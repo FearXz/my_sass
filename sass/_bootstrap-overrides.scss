@@ -8,6 +8,7 @@
 //var qua
 $darkgray: #141414;
 $lightgray: #adadad;
+$azure: #007fff;
 @import "./bootstrap/scss/variables";
 //map qua
 $theme-colors: (
@@ -26,6 +27,7 @@ $theme-colors: (
   "teal": $teal,
   "darkgray": $darkgray,
   "lightgray": $lightgray,
+  "azure": $azure,
 );
 
 $custom-grid-breakpoints: (
