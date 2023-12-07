@@ -18,4 +18,10 @@ $letterSpacing: (
   .max-h-#{$i*10} {
     max-height: #{$i * 10}px;
   }
+  .fix-w-#{$i*10} {
+    width: #{$i * 10}px;
+  }
+  .fix-h-#{$i*10} {
+    height: #{$i * 10}px;
+  }
 }
