@@ -11,3 +11,11 @@ $letterSpacing: (
     letter-spacing: #{$value};
   }
 }
+@for $i from 1 through 20 {
+  .max-w-#{$i*10} {
+    max-width: #{$i * 10}px;
+  }
+  .max-h-#{$i*10} {
+    max-height: #{$i * 10}px;
+  }
+}
