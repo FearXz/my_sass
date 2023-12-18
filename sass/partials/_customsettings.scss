@@ -11,7 +11,7 @@ $letterSpacing: (
     letter-spacing: #{$value};
   }
 }
-@for $i from 1 through 20 {
+@for $i from 1 through 30 {
   .max-w-#{$i*10} {
     max-width: #{$i * 10}px;
   }
@@ -23,5 +23,11 @@ $letterSpacing: (
   }
   .fix-h-#{$i*10} {
     height: #{$i * 10}px;
+  }
+  .min-w-#{$i*10} {
+    min-width: #{$i * 10}px;
+  }
+  .min-h-#{$i*10} {
+    min-height: #{$i * 10}px;
   }
 }
