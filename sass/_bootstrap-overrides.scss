@@ -54,6 +54,20 @@ $custon-font-sizes: (
 );
 $font-sizes: map-merge($font-sizes, $custon-font-sizes);
 
+$spacers: (
+  0: 0,
+  1: $spacer * 0.25,
+  2: $spacer * 0.5,
+  3: $spacer,
+  4: $spacer * 1.5,
+  5: $spacer * 2,
+  6: $spacer * 2.5,
+  7: $spacer * 3,
+  8: $spacer * 3.5,
+  9: $spacer * 4,
+  10: $spacer * 4.5,
+);
+
 @import "./bootstrap/scss/variables-dark";
 @import "./bootstrap/scss/maps";
 @import "./bootstrap/scss/mixins";
