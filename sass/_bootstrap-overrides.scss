@@ -6,7 +6,16 @@
 // Configuration
 @import "./bootstrap/scss/functions";
 //var qua
-
+$brown: #795548;
+$brown-100: tint-color($brown, 80%);
+$brown-200: tint-color($brown, 60%);
+$brown-300: tint-color($brown, 40%);
+$brown-400: tint-color($brown, 20%);
+$brown-500: $brown;
+$brown-600: shade-color($brown, 20%);
+$brown-700: shade-color($brown, 40%);
+$brown-800: shade-color($brown, 60%);
+$brown-900: shade-color($brown, 80%);
 @import "./bootstrap/scss/variables";
 //map qua
 $theme-colors: (
@@ -117,6 +126,15 @@ $theme-colors: (
   "cyan-700": $cyan-700,
   "cyan-800": $cyan-800,
   "cyan-900": $cyan-900,
+  "brown-100": $brown-100,
+  "brown-200": $brown-200,
+  "brown-300": $brown-300,
+  "brown-400": $brown-400,
+  "brown-500": $brown-500,
+  "brown-600": $brown-600,
+  "brown-700": $brown-700,
+  "brown-800": $brown-800,
+  "brown-900": $brown-900,
 );
 
 $custom-grid-breakpoints: (
