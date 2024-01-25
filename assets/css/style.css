@@ -25994,4 +25994,8 @@ textarea.form-control-lg {
   min-height: 300px;
 }
 
+.cursor-pointer {
+  cursor: pointer;
+}
+
 /*sass v5.3*//*# sourceMappingURL=style.css.map */
