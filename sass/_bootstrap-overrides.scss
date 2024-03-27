@@ -16,6 +16,18 @@ $brown-600: shade-color($brown, 20%);
 $brown-700: shade-color($brown, 40%);
 $brown-800: shade-color($brown, 60%);
 $brown-900: shade-color($brown, 80%);
+
+$leaf: #65b244;
+$leaf-100: tint-color($leaf, 80%);
+$leaf-200: tint-color($leaf, 60%);
+$leaf-300: tint-color($leaf, 40%);
+$leaf-400: tint-color($leaf, 20%);
+$leaf-500: $leaf;
+$leaf-600: shade-color($leaf, 20%);
+$leaf-700: shade-color($leaf, 40%);
+$leaf-800: shade-color($leaf, 60%);
+$leaf-900: shade-color($leaf, 80%);
+
 @import "./bootstrap/scss/variables";
 //map qua
 $theme-colors: (
@@ -27,6 +39,15 @@ $theme-colors: (
   "danger": $danger,
   "light": $light,
   "dark": $dark,
+  "leaf-100": $leaf-100,
+  "leaf-200": $leaf-200,
+  "leaf-300": $leaf-300,
+  "leaf-400": $leaf-400,
+  "leaf-500": $leaf-500,
+  "leaf-600": $leaf-600,
+  "leaf-700": $leaf-700,
+  "leaf-800": $leaf-800,
+  "leaf-900": $leaf-900,
   "blue-100": $blue-100,
   "blue-200": $blue-200,
   "blue-300": $blue-300,
