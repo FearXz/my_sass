@@ -11,7 +11,7 @@ $letterSpacing: (
     letter-spacing: #{$value};
   }
 }
-@for $i from 1 through 30 {
+@for $i from 1 through 50 {
   .max-w-#{$i*10} {
     max-width: #{$i * 10}px;
   }
