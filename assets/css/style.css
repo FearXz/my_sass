@@ -27324,4 +27324,8 @@ textarea.form-control-lg {
   cursor: pointer;
 }
 
+.cursor-event-none {
+  pointer-events: none;
+}
+
 /*sass v5.3*//*# sourceMappingURL=style.css.map */

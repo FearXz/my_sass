@@ -34,3 +34,6 @@ $letterSpacing: (
 .cursor-pointer {
   cursor: pointer;
 }
+.cursor-event-none {
+  pointer-events: none;
+}
