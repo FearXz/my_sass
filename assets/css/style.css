@@ -26101,1231 +26101,1231 @@ textarea.form-control-lg {
   }
 }
 .ls-1 {
-  letter-spacing: 1px;
+  letter-spacing: 1px !important;
 }
 
 .ls-2 {
-  letter-spacing: 2px;
+  letter-spacing: 2px !important;
 }
 
 .ls-3 {
-  letter-spacing: 3px;
+  letter-spacing: 3px !important;
 }
 
 .ls-4 {
-  letter-spacing: 4px;
+  letter-spacing: 4px !important;
 }
 
 .ls-5 {
-  letter-spacing: 5px;
+  letter-spacing: 5px !important;
 }
 
 .max-w-10 {
-  max-width: 10px;
+  max-width: 10px !important;
 }
 
 .max-h-10 {
-  max-height: 10px;
+  max-height: 10px !important;
 }
 
 .fix-w-10 {
-  width: 10px;
+  width: 10px !important;
 }
 
 .fix-h-10 {
-  height: 10px;
+  height: 10px !important;
 }
 
 .min-w-10 {
-  min-width: 10px;
+  min-width: 10px !important;
 }
 
 .min-h-10 {
-  min-height: 10px;
+  min-height: 10px !important;
 }
 
 .max-w-20 {
-  max-width: 20px;
+  max-width: 20px !important;
 }
 
 .max-h-20 {
-  max-height: 20px;
+  max-height: 20px !important;
 }
 
 .fix-w-20 {
-  width: 20px;
+  width: 20px !important;
 }
 
 .fix-h-20 {
-  height: 20px;
+  height: 20px !important;
 }
 
 .min-w-20 {
-  min-width: 20px;
+  min-width: 20px !important;
 }
 
 .min-h-20 {
-  min-height: 20px;
+  min-height: 20px !important;
 }
 
 .max-w-30 {
-  max-width: 30px;
+  max-width: 30px !important;
 }
 
 .max-h-30 {
-  max-height: 30px;
+  max-height: 30px !important;
 }
 
 .fix-w-30 {
-  width: 30px;
+  width: 30px !important;
 }
 
 .fix-h-30 {
-  height: 30px;
+  height: 30px !important;
 }
 
 .min-w-30 {
-  min-width: 30px;
+  min-width: 30px !important;
 }
 
 .min-h-30 {
-  min-height: 30px;
+  min-height: 30px !important;
 }
 
 .max-w-40 {
-  max-width: 40px;
+  max-width: 40px !important;
 }
 
 .max-h-40 {
-  max-height: 40px;
+  max-height: 40px !important;
 }
 
 .fix-w-40 {
-  width: 40px;
+  width: 40px !important;
 }
 
 .fix-h-40 {
-  height: 40px;
+  height: 40px !important;
 }
 
 .min-w-40 {
-  min-width: 40px;
+  min-width: 40px !important;
 }
 
 .min-h-40 {
-  min-height: 40px;
+  min-height: 40px !important;
 }
 
 .max-w-50 {
-  max-width: 50px;
+  max-width: 50px !important;
 }
 
 .max-h-50 {
-  max-height: 50px;
+  max-height: 50px !important;
 }
 
 .fix-w-50 {
-  width: 50px;
+  width: 50px !important;
 }
 
 .fix-h-50 {
-  height: 50px;
+  height: 50px !important;
 }
 
 .min-w-50 {
-  min-width: 50px;
+  min-width: 50px !important;
 }
 
 .min-h-50 {
-  min-height: 50px;
+  min-height: 50px !important;
 }
 
 .max-w-60 {
-  max-width: 60px;
+  max-width: 60px !important;
 }
 
 .max-h-60 {
-  max-height: 60px;
+  max-height: 60px !important;
 }
 
 .fix-w-60 {
-  width: 60px;
+  width: 60px !important;
 }
 
 .fix-h-60 {
-  height: 60px;
+  height: 60px !important;
 }
 
 .min-w-60 {
-  min-width: 60px;
+  min-width: 60px !important;
 }
 
 .min-h-60 {
-  min-height: 60px;
+  min-height: 60px !important;
 }
 
 .max-w-70 {
-  max-width: 70px;
+  max-width: 70px !important;
 }
 
 .max-h-70 {
-  max-height: 70px;
+  max-height: 70px !important;
 }
 
 .fix-w-70 {
-  width: 70px;
+  width: 70px !important;
 }
 
 .fix-h-70 {
-  height: 70px;
+  height: 70px !important;
 }
 
 .min-w-70 {
-  min-width: 70px;
+  min-width: 70px !important;
 }
 
 .min-h-70 {
-  min-height: 70px;
+  min-height: 70px !important;
 }
 
 .max-w-80 {
-  max-width: 80px;
+  max-width: 80px !important;
 }
 
 .max-h-80 {
-  max-height: 80px;
+  max-height: 80px !important;
 }
 
 .fix-w-80 {
-  width: 80px;
+  width: 80px !important;
 }
 
 .fix-h-80 {
-  height: 80px;
+  height: 80px !important;
 }
 
 .min-w-80 {
-  min-width: 80px;
+  min-width: 80px !important;
 }
 
 .min-h-80 {
-  min-height: 80px;
+  min-height: 80px !important;
 }
 
 .max-w-90 {
-  max-width: 90px;
+  max-width: 90px !important;
 }
 
 .max-h-90 {
-  max-height: 90px;
+  max-height: 90px !important;
 }
 
 .fix-w-90 {
-  width: 90px;
+  width: 90px !important;
 }
 
 .fix-h-90 {
-  height: 90px;
+  height: 90px !important;
 }
 
 .min-w-90 {
-  min-width: 90px;
+  min-width: 90px !important;
 }
 
 .min-h-90 {
-  min-height: 90px;
+  min-height: 90px !important;
 }
 
 .max-w-100 {
-  max-width: 100px;
+  max-width: 100px !important;
 }
 
 .max-h-100 {
-  max-height: 100px;
+  max-height: 100px !important;
 }
 
 .fix-w-100 {
-  width: 100px;
+  width: 100px !important;
 }
 
 .fix-h-100 {
-  height: 100px;
+  height: 100px !important;
 }
 
 .min-w-100 {
-  min-width: 100px;
+  min-width: 100px !important;
 }
 
 .min-h-100 {
-  min-height: 100px;
+  min-height: 100px !important;
 }
 
 .max-w-110 {
-  max-width: 110px;
+  max-width: 110px !important;
 }
 
 .max-h-110 {
-  max-height: 110px;
+  max-height: 110px !important;
 }
 
 .fix-w-110 {
-  width: 110px;
+  width: 110px !important;
 }
 
 .fix-h-110 {
-  height: 110px;
+  height: 110px !important;
 }
 
 .min-w-110 {
-  min-width: 110px;
+  min-width: 110px !important;
 }
 
 .min-h-110 {
-  min-height: 110px;
+  min-height: 110px !important;
 }
 
 .max-w-120 {
-  max-width: 120px;
+  max-width: 120px !important;
 }
 
 .max-h-120 {
-  max-height: 120px;
+  max-height: 120px !important;
 }
 
 .fix-w-120 {
-  width: 120px;
+  width: 120px !important;
 }
 
 .fix-h-120 {
-  height: 120px;
+  height: 120px !important;
 }
 
 .min-w-120 {
-  min-width: 120px;
+  min-width: 120px !important;
 }
 
 .min-h-120 {
-  min-height: 120px;
+  min-height: 120px !important;
 }
 
 .max-w-130 {
-  max-width: 130px;
+  max-width: 130px !important;
 }
 
 .max-h-130 {
-  max-height: 130px;
+  max-height: 130px !important;
 }
 
 .fix-w-130 {
-  width: 130px;
+  width: 130px !important;
 }
 
 .fix-h-130 {
-  height: 130px;
+  height: 130px !important;
 }
 
 .min-w-130 {
-  min-width: 130px;
+  min-width: 130px !important;
 }
 
 .min-h-130 {
-  min-height: 130px;
+  min-height: 130px !important;
 }
 
 .max-w-140 {
-  max-width: 140px;
+  max-width: 140px !important;
 }
 
 .max-h-140 {
-  max-height: 140px;
+  max-height: 140px !important;
 }
 
 .fix-w-140 {
-  width: 140px;
+  width: 140px !important;
 }
 
 .fix-h-140 {
-  height: 140px;
+  height: 140px !important;
 }
 
 .min-w-140 {
-  min-width: 140px;
+  min-width: 140px !important;
 }
 
 .min-h-140 {
-  min-height: 140px;
+  min-height: 140px !important;
 }
 
 .max-w-150 {
-  max-width: 150px;
+  max-width: 150px !important;
 }
 
 .max-h-150 {
-  max-height: 150px;
+  max-height: 150px !important;
 }
 
 .fix-w-150 {
-  width: 150px;
+  width: 150px !important;
 }
 
 .fix-h-150 {
-  height: 150px;
+  height: 150px !important;
 }
 
 .min-w-150 {
-  min-width: 150px;
+  min-width: 150px !important;
 }
 
 .min-h-150 {
-  min-height: 150px;
+  min-height: 150px !important;
 }
 
 .max-w-160 {
-  max-width: 160px;
+  max-width: 160px !important;
 }
 
 .max-h-160 {
-  max-height: 160px;
+  max-height: 160px !important;
 }
 
 .fix-w-160 {
-  width: 160px;
+  width: 160px !important;
 }
 
 .fix-h-160 {
-  height: 160px;
+  height: 160px !important;
 }
 
 .min-w-160 {
-  min-width: 160px;
+  min-width: 160px !important;
 }
 
 .min-h-160 {
-  min-height: 160px;
+  min-height: 160px !important;
 }
 
 .max-w-170 {
-  max-width: 170px;
+  max-width: 170px !important;
 }
 
 .max-h-170 {
-  max-height: 170px;
+  max-height: 170px !important;
 }
 
 .fix-w-170 {
-  width: 170px;
+  width: 170px !important;
 }
 
 .fix-h-170 {
-  height: 170px;
+  height: 170px !important;
 }
 
 .min-w-170 {
-  min-width: 170px;
+  min-width: 170px !important;
 }
 
 .min-h-170 {
-  min-height: 170px;
+  min-height: 170px !important;
 }
 
 .max-w-180 {
-  max-width: 180px;
+  max-width: 180px !important;
 }
 
 .max-h-180 {
-  max-height: 180px;
+  max-height: 180px !important;
 }
 
 .fix-w-180 {
-  width: 180px;
+  width: 180px !important;
 }
 
 .fix-h-180 {
-  height: 180px;
+  height: 180px !important;
 }
 
 .min-w-180 {
-  min-width: 180px;
+  min-width: 180px !important;
 }
 
 .min-h-180 {
-  min-height: 180px;
+  min-height: 180px !important;
 }
 
 .max-w-190 {
-  max-width: 190px;
+  max-width: 190px !important;
 }
 
 .max-h-190 {
-  max-height: 190px;
+  max-height: 190px !important;
 }
 
 .fix-w-190 {
-  width: 190px;
+  width: 190px !important;
 }
 
 .fix-h-190 {
-  height: 190px;
+  height: 190px !important;
 }
 
 .min-w-190 {
-  min-width: 190px;
+  min-width: 190px !important;
 }
 
 .min-h-190 {
-  min-height: 190px;
+  min-height: 190px !important;
 }
 
 .max-w-200 {
-  max-width: 200px;
+  max-width: 200px !important;
 }
 
 .max-h-200 {
-  max-height: 200px;
+  max-height: 200px !important;
 }
 
 .fix-w-200 {
-  width: 200px;
+  width: 200px !important;
 }
 
 .fix-h-200 {
-  height: 200px;
+  height: 200px !important;
 }
 
 .min-w-200 {
-  min-width: 200px;
+  min-width: 200px !important;
 }
 
 .min-h-200 {
-  min-height: 200px;
+  min-height: 200px !important;
 }
 
 .max-w-210 {
-  max-width: 210px;
+  max-width: 210px !important;
 }
 
 .max-h-210 {
-  max-height: 210px;
+  max-height: 210px !important;
 }
 
 .fix-w-210 {
-  width: 210px;
+  width: 210px !important;
 }
 
 .fix-h-210 {
-  height: 210px;
+  height: 210px !important;
 }
 
 .min-w-210 {
-  min-width: 210px;
+  min-width: 210px !important;
 }
 
 .min-h-210 {
-  min-height: 210px;
+  min-height: 210px !important;
 }
 
 .max-w-220 {
-  max-width: 220px;
+  max-width: 220px !important;
 }
 
 .max-h-220 {
-  max-height: 220px;
+  max-height: 220px !important;
 }
 
 .fix-w-220 {
-  width: 220px;
+  width: 220px !important;
 }
 
 .fix-h-220 {
-  height: 220px;
+  height: 220px !important;
 }
 
 .min-w-220 {
-  min-width: 220px;
+  min-width: 220px !important;
 }
 
 .min-h-220 {
-  min-height: 220px;
+  min-height: 220px !important;
 }
 
 .max-w-230 {
-  max-width: 230px;
+  max-width: 230px !important;
 }
 
 .max-h-230 {
-  max-height: 230px;
+  max-height: 230px !important;
 }
 
 .fix-w-230 {
-  width: 230px;
+  width: 230px !important;
 }
 
 .fix-h-230 {
-  height: 230px;
+  height: 230px !important;
 }
 
 .min-w-230 {
-  min-width: 230px;
+  min-width: 230px !important;
 }
 
 .min-h-230 {
-  min-height: 230px;
+  min-height: 230px !important;
 }
 
 .max-w-240 {
-  max-width: 240px;
+  max-width: 240px !important;
 }
 
 .max-h-240 {
-  max-height: 240px;
+  max-height: 240px !important;
 }
 
 .fix-w-240 {
-  width: 240px;
+  width: 240px !important;
 }
 
 .fix-h-240 {
-  height: 240px;
+  height: 240px !important;
 }
 
 .min-w-240 {
-  min-width: 240px;
+  min-width: 240px !important;
 }
 
 .min-h-240 {
-  min-height: 240px;
+  min-height: 240px !important;
 }
 
 .max-w-250 {
-  max-width: 250px;
+  max-width: 250px !important;
 }
 
 .max-h-250 {
-  max-height: 250px;
+  max-height: 250px !important;
 }
 
 .fix-w-250 {
-  width: 250px;
+  width: 250px !important;
 }
 
 .fix-h-250 {
-  height: 250px;
+  height: 250px !important;
 }
 
 .min-w-250 {
-  min-width: 250px;
+  min-width: 250px !important;
 }
 
 .min-h-250 {
-  min-height: 250px;
+  min-height: 250px !important;
 }
 
 .max-w-260 {
-  max-width: 260px;
+  max-width: 260px !important;
 }
 
 .max-h-260 {
-  max-height: 260px;
+  max-height: 260px !important;
 }
 
 .fix-w-260 {
-  width: 260px;
+  width: 260px !important;
 }
 
 .fix-h-260 {
-  height: 260px;
+  height: 260px !important;
 }
 
 .min-w-260 {
-  min-width: 260px;
+  min-width: 260px !important;
 }
 
 .min-h-260 {
-  min-height: 260px;
+  min-height: 260px !important;
 }
 
 .max-w-270 {
-  max-width: 270px;
+  max-width: 270px !important;
 }
 
 .max-h-270 {
-  max-height: 270px;
+  max-height: 270px !important;
 }
 
 .fix-w-270 {
-  width: 270px;
+  width: 270px !important;
 }
 
 .fix-h-270 {
-  height: 270px;
+  height: 270px !important;
 }
 
 .min-w-270 {
-  min-width: 270px;
+  min-width: 270px !important;
 }
 
 .min-h-270 {
-  min-height: 270px;
+  min-height: 270px !important;
 }
 
 .max-w-280 {
-  max-width: 280px;
+  max-width: 280px !important;
 }
 
 .max-h-280 {
-  max-height: 280px;
+  max-height: 280px !important;
 }
 
 .fix-w-280 {
-  width: 280px;
+  width: 280px !important;
 }
 
 .fix-h-280 {
-  height: 280px;
+  height: 280px !important;
 }
 
 .min-w-280 {
-  min-width: 280px;
+  min-width: 280px !important;
 }
 
 .min-h-280 {
-  min-height: 280px;
+  min-height: 280px !important;
 }
 
 .max-w-290 {
-  max-width: 290px;
+  max-width: 290px !important;
 }
 
 .max-h-290 {
-  max-height: 290px;
+  max-height: 290px !important;
 }
 
 .fix-w-290 {
-  width: 290px;
+  width: 290px !important;
 }
 
 .fix-h-290 {
-  height: 290px;
+  height: 290px !important;
 }
 
 .min-w-290 {
-  min-width: 290px;
+  min-width: 290px !important;
 }
 
 .min-h-290 {
-  min-height: 290px;
+  min-height: 290px !important;
 }
 
 .max-w-300 {
-  max-width: 300px;
+  max-width: 300px !important;
 }
 
 .max-h-300 {
-  max-height: 300px;
+  max-height: 300px !important;
 }
 
 .fix-w-300 {
-  width: 300px;
+  width: 300px !important;
 }
 
 .fix-h-300 {
-  height: 300px;
+  height: 300px !important;
 }
 
 .min-w-300 {
-  min-width: 300px;
+  min-width: 300px !important;
 }
 
 .min-h-300 {
-  min-height: 300px;
+  min-height: 300px !important;
 }
 
 .max-w-310 {
-  max-width: 310px;
+  max-width: 310px !important;
 }
 
 .max-h-310 {
-  max-height: 310px;
+  max-height: 310px !important;
 }
 
 .fix-w-310 {
-  width: 310px;
+  width: 310px !important;
 }
 
 .fix-h-310 {
-  height: 310px;
+  height: 310px !important;
 }
 
 .min-w-310 {
-  min-width: 310px;
+  min-width: 310px !important;
 }
 
 .min-h-310 {
-  min-height: 310px;
+  min-height: 310px !important;
 }
 
 .max-w-320 {
-  max-width: 320px;
+  max-width: 320px !important;
 }
 
 .max-h-320 {
-  max-height: 320px;
+  max-height: 320px !important;
 }
 
 .fix-w-320 {
-  width: 320px;
+  width: 320px !important;
 }
 
 .fix-h-320 {
-  height: 320px;
+  height: 320px !important;
 }
 
 .min-w-320 {
-  min-width: 320px;
+  min-width: 320px !important;
 }
 
 .min-h-320 {
-  min-height: 320px;
+  min-height: 320px !important;
 }
 
 .max-w-330 {
-  max-width: 330px;
+  max-width: 330px !important;
 }
 
 .max-h-330 {
-  max-height: 330px;
+  max-height: 330px !important;
 }
 
 .fix-w-330 {
-  width: 330px;
+  width: 330px !important;
 }
 
 .fix-h-330 {
-  height: 330px;
+  height: 330px !important;
 }
 
 .min-w-330 {
-  min-width: 330px;
+  min-width: 330px !important;
 }
 
 .min-h-330 {
-  min-height: 330px;
+  min-height: 330px !important;
 }
 
 .max-w-340 {
-  max-width: 340px;
+  max-width: 340px !important;
 }
 
 .max-h-340 {
-  max-height: 340px;
+  max-height: 340px !important;
 }
 
 .fix-w-340 {
-  width: 340px;
+  width: 340px !important;
 }
 
 .fix-h-340 {
-  height: 340px;
+  height: 340px !important;
 }
 
 .min-w-340 {
-  min-width: 340px;
+  min-width: 340px !important;
 }
 
 .min-h-340 {
-  min-height: 340px;
+  min-height: 340px !important;
 }
 
 .max-w-350 {
-  max-width: 350px;
+  max-width: 350px !important;
 }
 
 .max-h-350 {
-  max-height: 350px;
+  max-height: 350px !important;
 }
 
 .fix-w-350 {
-  width: 350px;
+  width: 350px !important;
 }
 
 .fix-h-350 {
-  height: 350px;
+  height: 350px !important;
 }
 
 .min-w-350 {
-  min-width: 350px;
+  min-width: 350px !important;
 }
 
 .min-h-350 {
-  min-height: 350px;
+  min-height: 350px !important;
 }
 
 .max-w-360 {
-  max-width: 360px;
+  max-width: 360px !important;
 }
 
 .max-h-360 {
-  max-height: 360px;
+  max-height: 360px !important;
 }
 
 .fix-w-360 {
-  width: 360px;
+  width: 360px !important;
 }
 
 .fix-h-360 {
-  height: 360px;
+  height: 360px !important;
 }
 
 .min-w-360 {
-  min-width: 360px;
+  min-width: 360px !important;
 }
 
 .min-h-360 {
-  min-height: 360px;
+  min-height: 360px !important;
 }
 
 .max-w-370 {
-  max-width: 370px;
+  max-width: 370px !important;
 }
 
 .max-h-370 {
-  max-height: 370px;
+  max-height: 370px !important;
 }
 
 .fix-w-370 {
-  width: 370px;
+  width: 370px !important;
 }
 
 .fix-h-370 {
-  height: 370px;
+  height: 370px !important;
 }
 
 .min-w-370 {
-  min-width: 370px;
+  min-width: 370px !important;
 }
 
 .min-h-370 {
-  min-height: 370px;
+  min-height: 370px !important;
 }
 
 .max-w-380 {
-  max-width: 380px;
+  max-width: 380px !important;
 }
 
 .max-h-380 {
-  max-height: 380px;
+  max-height: 380px !important;
 }
 
 .fix-w-380 {
-  width: 380px;
+  width: 380px !important;
 }
 
 .fix-h-380 {
-  height: 380px;
+  height: 380px !important;
 }
 
 .min-w-380 {
-  min-width: 380px;
+  min-width: 380px !important;
 }
 
 .min-h-380 {
-  min-height: 380px;
+  min-height: 380px !important;
 }
 
 .max-w-390 {
-  max-width: 390px;
+  max-width: 390px !important;
 }
 
 .max-h-390 {
-  max-height: 390px;
+  max-height: 390px !important;
 }
 
 .fix-w-390 {
-  width: 390px;
+  width: 390px !important;
 }
 
 .fix-h-390 {
-  height: 390px;
+  height: 390px !important;
 }
 
 .min-w-390 {
-  min-width: 390px;
+  min-width: 390px !important;
 }
 
 .min-h-390 {
-  min-height: 390px;
+  min-height: 390px !important;
 }
 
 .max-w-400 {
-  max-width: 400px;
+  max-width: 400px !important;
 }
 
 .max-h-400 {
-  max-height: 400px;
+  max-height: 400px !important;
 }
 
 .fix-w-400 {
-  width: 400px;
+  width: 400px !important;
 }
 
 .fix-h-400 {
-  height: 400px;
+  height: 400px !important;
 }
 
 .min-w-400 {
-  min-width: 400px;
+  min-width: 400px !important;
 }
 
 .min-h-400 {
-  min-height: 400px;
+  min-height: 400px !important;
 }
 
 .max-w-410 {
-  max-width: 410px;
+  max-width: 410px !important;
 }
 
 .max-h-410 {
-  max-height: 410px;
+  max-height: 410px !important;
 }
 
 .fix-w-410 {
-  width: 410px;
+  width: 410px !important;
 }
 
 .fix-h-410 {
-  height: 410px;
+  height: 410px !important;
 }
 
 .min-w-410 {
-  min-width: 410px;
+  min-width: 410px !important;
 }
 
 .min-h-410 {
-  min-height: 410px;
+  min-height: 410px !important;
 }
 
 .max-w-420 {
-  max-width: 420px;
+  max-width: 420px !important;
 }
 
 .max-h-420 {
-  max-height: 420px;
+  max-height: 420px !important;
 }
 
 .fix-w-420 {
-  width: 420px;
+  width: 420px !important;
 }
 
 .fix-h-420 {
-  height: 420px;
+  height: 420px !important;
 }
 
 .min-w-420 {
-  min-width: 420px;
+  min-width: 420px !important;
 }
 
 .min-h-420 {
-  min-height: 420px;
+  min-height: 420px !important;
 }
 
 .max-w-430 {
-  max-width: 430px;
+  max-width: 430px !important;
 }
 
 .max-h-430 {
-  max-height: 430px;
+  max-height: 430px !important;
 }
 
 .fix-w-430 {
-  width: 430px;
+  width: 430px !important;
 }
 
 .fix-h-430 {
-  height: 430px;
+  height: 430px !important;
 }
 
 .min-w-430 {
-  min-width: 430px;
+  min-width: 430px !important;
 }
 
 .min-h-430 {
-  min-height: 430px;
+  min-height: 430px !important;
 }
 
 .max-w-440 {
-  max-width: 440px;
+  max-width: 440px !important;
 }
 
 .max-h-440 {
-  max-height: 440px;
+  max-height: 440px !important;
 }
 
 .fix-w-440 {
-  width: 440px;
+  width: 440px !important;
 }
 
 .fix-h-440 {
-  height: 440px;
+  height: 440px !important;
 }
 
 .min-w-440 {
-  min-width: 440px;
+  min-width: 440px !important;
 }
 
 .min-h-440 {
-  min-height: 440px;
+  min-height: 440px !important;
 }
 
 .max-w-450 {
-  max-width: 450px;
+  max-width: 450px !important;
 }
 
 .max-h-450 {
-  max-height: 450px;
+  max-height: 450px !important;
 }
 
 .fix-w-450 {
-  width: 450px;
+  width: 450px !important;
 }
 
 .fix-h-450 {
-  height: 450px;
+  height: 450px !important;
 }
 
 .min-w-450 {
-  min-width: 450px;
+  min-width: 450px !important;
 }
 
 .min-h-450 {
-  min-height: 450px;
+  min-height: 450px !important;
 }
 
 .max-w-460 {
-  max-width: 460px;
+  max-width: 460px !important;
 }
 
 .max-h-460 {
-  max-height: 460px;
+  max-height: 460px !important;
 }
 
 .fix-w-460 {
-  width: 460px;
+  width: 460px !important;
 }
 
 .fix-h-460 {
-  height: 460px;
+  height: 460px !important;
 }
 
 .min-w-460 {
-  min-width: 460px;
+  min-width: 460px !important;
 }
 
 .min-h-460 {
-  min-height: 460px;
+  min-height: 460px !important;
 }
 
 .max-w-470 {
-  max-width: 470px;
+  max-width: 470px !important;
 }
 
 .max-h-470 {
-  max-height: 470px;
+  max-height: 470px !important;
 }
 
 .fix-w-470 {
-  width: 470px;
+  width: 470px !important;
 }
 
 .fix-h-470 {
-  height: 470px;
+  height: 470px !important;
 }
 
 .min-w-470 {
-  min-width: 470px;
+  min-width: 470px !important;
 }
 
 .min-h-470 {
-  min-height: 470px;
+  min-height: 470px !important;
 }
 
 .max-w-480 {
-  max-width: 480px;
+  max-width: 480px !important;
 }
 
 .max-h-480 {
-  max-height: 480px;
+  max-height: 480px !important;
 }
 
 .fix-w-480 {
-  width: 480px;
+  width: 480px !important;
 }
 
 .fix-h-480 {
-  height: 480px;
+  height: 480px !important;
 }
 
 .min-w-480 {
-  min-width: 480px;
+  min-width: 480px !important;
 }
 
 .min-h-480 {
-  min-height: 480px;
+  min-height: 480px !important;
 }
 
 .max-w-490 {
-  max-width: 490px;
+  max-width: 490px !important;
 }
 
 .max-h-490 {
-  max-height: 490px;
+  max-height: 490px !important;
 }
 
 .fix-w-490 {
-  width: 490px;
+  width: 490px !important;
 }
 
 .fix-h-490 {
-  height: 490px;
+  height: 490px !important;
 }
 
 .min-w-490 {
-  min-width: 490px;
+  min-width: 490px !important;
 }
 
 .min-h-490 {
-  min-height: 490px;
+  min-height: 490px !important;
 }
 
 .max-w-500 {
-  max-width: 500px;
+  max-width: 500px !important;
 }
 
 .max-h-500 {
-  max-height: 500px;
+  max-height: 500px !important;
 }
 
 .fix-w-500 {
-  width: 500px;
+  width: 500px !important;
 }
 
 .fix-h-500 {
-  height: 500px;
+  height: 500px !important;
 }
 
 .min-w-500 {
-  min-width: 500px;
+  min-width: 500px !important;
 }
 
 .min-h-500 {
-  min-height: 500px;
+  min-height: 500px !important;
 }
 
 .cursor-pointer {
-  cursor: pointer;
+  cursor: pointer !important;
 }
 
 .cursor-event-none {
-  pointer-events: none;
+  pointer-events: none !important;
 }
 
 /*sass v5.3*//*# sourceMappingURL=style.css.map */

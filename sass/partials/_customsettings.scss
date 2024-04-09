@@ -8,32 +8,32 @@ $letterSpacing: (
 
 @each $name, $value in $letterSpacing {
   .ls-#{$name} {
-    letter-spacing: #{$value};
+    letter-spacing: #{$value} !important;
   }
 }
 @for $i from 1 through 50 {
   .max-w-#{$i*10} {
-    max-width: #{$i * 10}px;
+    max-width: #{$i * 10}px !important;
   }
   .max-h-#{$i*10} {
-    max-height: #{$i * 10}px;
+    max-height: #{$i * 10}px !important;
   }
   .fix-w-#{$i*10} {
-    width: #{$i * 10}px;
+    width: #{$i * 10}px !important;
   }
   .fix-h-#{$i*10} {
-    height: #{$i * 10}px;
+    height: #{$i * 10}px !important;
   }
   .min-w-#{$i*10} {
-    min-width: #{$i * 10}px;
+    min-width: #{$i * 10}px !important;
   }
   .min-h-#{$i*10} {
-    min-height: #{$i * 10}px;
+    min-height: #{$i * 10}px !important;
   }
 }
 .cursor-pointer {
-  cursor: pointer;
+  cursor: pointer !important;
 }
 .cursor-event-none {
-  pointer-events: none;
+  pointer-events: none !important;
 }
