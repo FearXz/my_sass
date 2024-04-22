@@ -37,3 +37,6 @@ $letterSpacing: (
 .cursor-event-none {
   pointer-events: none !important;
 }
+.transition {
+  transition: all 0.3s ease !important;
+}

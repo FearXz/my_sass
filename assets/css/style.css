@@ -27328,4 +27328,8 @@ textarea.form-control-lg {
   pointer-events: none !important;
 }
 
+.transition {
+  transition: all 0.3s ease !important;
+}
+
 /*sass v5.3*//*# sourceMappingURL=style.css.map */
